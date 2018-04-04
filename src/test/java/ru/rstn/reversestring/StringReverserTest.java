@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertNull;
 
 /**
  * Complete the solution so that it reverses the string value passed into it.
- * </p>
+ * <p/>
  * {@code Kata.solution("world") //return "dlrow"}
  */
 public class StringReverserTest {
